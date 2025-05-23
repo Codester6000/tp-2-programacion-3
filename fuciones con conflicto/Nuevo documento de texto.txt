@@ -1,2 +1,6 @@
 aaaa
+<<<<<<< HEAD:fuciones con conflicto/Nuevo documento de texto.txt
 aaa
+=======
+hola
+>>>>>>> rama2:fuciones sin conflistos/Nuevo documento de texto.txt
